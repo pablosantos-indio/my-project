@@ -1,0 +1,8 @@
+{
+   "content": {
+       "timestamp": "2024-02-28T14:30:00Z",
+       "type": "login",
+       "details": "User 'john@example.com' logged in successfully."
+   },
+   "fileName": "hello.txt"
+}
